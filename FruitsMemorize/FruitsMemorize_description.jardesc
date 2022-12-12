@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/han07/OneDrive/바탕 화면/한준호 대학교 과제/2-2 과제/자프실/2019312571_Junho_Han_final_project/FruitsMemorize_jarFile/2019312571_Junho_Han_FruitsMemorizeGame.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/FruitsMemorize/FruitsMemorize_description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=FruitsMemorize/src&lt;{StartApplication.java[StartApplication" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/FruitsMemorize/.classpath"/>
+        <file path="/FruitsMemorize/.project"/>
+        <file path="/FruitsMemorize/userChoose.txt"/>
+        <file path="/FruitsMemorize/fruitsList.txt"/>
+        <javaElement handleIdentifier="=FruitsMemorize/src"/>
+    </selectedElements>
+</jardesc>
